@@ -63,6 +63,6 @@ def main():
             session.add(model_create)
             session.commit()
 
-
+# to initial script
 if __name__ == '__main__':
     main()
